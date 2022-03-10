@@ -1,2 +1,3 @@
-# ootd
-Opportunities of the Day
+# Opportunities of the Day
+
+## IIT Madras, Research Scholars
