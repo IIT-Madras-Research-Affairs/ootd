@@ -1,5 +1,5 @@
-title: 'Students, IIT Madras'
-author: 'RAS IITM'
+title: 'Research Scholars, IIT Madras'
+author: 'Research Affairs Secretary, IIT Madras'
 email: 'sec_resaf@smail.iitm.ac.in'
 description: > # this means to ignore newlines until "show_excerpts:"
   Here we can write an awesome description this site here. We can easily edit this
@@ -9,11 +9,10 @@ description: > # this means to ignore newlines until "show_excerpts:"
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # social links
-twitter_username: reachIITM # DO NOT include the @ character, or else the build will fail!
-facebook_username: reachIITM
-instagram_username: reachIITM
-linkedin_username: reachIITM
-youtube_username: ReachIITM
+# DO NOT include the @ character, or else the build will fail!
+instagram_username: iitmresaff
+linkedin_username: iitmresearchaffairs
+youtube_username: IIT Madras Research Affairs
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
