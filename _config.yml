@@ -2,15 +2,12 @@ title: 'Research Scholars, IIT Madras'
 author: 'Research Affairs Secretary, IIT Madras'
 email: 'sec_resaf@smail.iitm.ac.in'
 description: > # this means to ignore newlines until "show_excerpts:"
-  Here we can write an awesome description this site here. We can easily edit this
-  line in _config.yml. This description will also appear in 
-  Google search results and in your feed.xml site description.
-
+  Nothing is more expensive than missing the opportunity. Your big opportunity may be right where you are now. Waiting for opportunity is an excuse for inaction. Do you want more motivation or are you good enough to stay alert for the best!? The Research Affairs teams have come up with this initiative to bring together opportunities for researchers in one place. We wish you good luck in your pursuit for the best!
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # social links
 # DO NOT include the @ character, or else the build will fail!
-instagram_username: iitmresaff
+instagram_username: iitm_resaff
 linkedin_username: iitmresearchaffairs
 youtube_username: IIT Madras Research Affairs
 
