@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is a page where we can give some general information about IITM RAS and RSD etc.. [some Links](https://www.iitm.ac.in/)
+IIT Madras Research Affairs consists of several scholars-managed teams covering a gamut of activities including placements, seminars, workshops, industry connect, entrepreneurship, mentorship, events, alumni sessions, research & innovation, panel discussion and several others. 
